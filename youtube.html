@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+ <title>youtube курсы</title> 
+</head> 
+<body>
+   <ul>
+        <li>
+        <a href="https://www.youtube.com/watch?v=YKxua0wkgD8"target="_blank">HTML для Начинающих - Практический Курс [2021]</a>
+    </li>
+
+   </ul> 
+    
+</body>
+</html>

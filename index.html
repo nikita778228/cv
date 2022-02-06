@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <title>lol</title>
+</head>
+<body>
+    <table cellspacing="10">
+<tr>
+    <td>
+        <img src="https://www.youloveit.ru/uploads/posts/2020-04/1586360554_youloveit_ru_dipper_gravity_falls_na_avu01.jpg" width="300px">
+        </td>
+        <td>
+        <h1>Никита Барлит</h1>
+        <P><em><strong>Я учусь<strong>прагромирывать</strong></em></P>
+        <P> я люблю играть в игры</p>
+        </td>
+</tr>
+    </table>
+
+        <hr>
+        <h2>моя соцыальная сеть </h2>
+            <ul type="">
+                <li><a href="https:/youtube.com"target="_blank">you tube</li>
+                <li><a href="https://www.instagram.com/"target="_blank">instagram</a></li>
+                
+            </ul>
+
+
+        <h2>мои хоби</h2>
+        <ol>
+            <li type="A">хакекр</li>
+            <li type="a" >водила</li>
+            <li type="I">профи</li>
+        </ol>
+        <hr>
+        <h2> связатся со мной </h2>
+        <froom action="/">
+            <label for="name">Напишите ваше имя</label>
+                <input type="text" id="name" placeholder="Введите ваше  имя">
+                <br>
+                    <label for="name">Напишите ваш емейл</label>
+                        <input type="email" id="emeil" placeholder="Введите ваш emeil" value="tese@gmail.com">
+
+                        <label for="text">Напишите ваше сообщение</label>
+                        <br>
+                       <textarea id="text" rows="6" cols="5"></textarea>
+                    
+                    <br>
+                    <input type="submit"value="связатся">
+        </froom>
+        <hr>
+
+        <h2>мой опыт работы</h2>
+    <table>
+        <thead><th>Место роботы</th> 
+            <th>Должность</th> 
+            <th>время роботы</th> </thead>
+        
+        <tr>
+        <td>Домашняя практика</td>
+        <td>Самоучка</td>
+        <td>3 дня</td>
+        </tr>
+      <tr>
+          <table>
+            <td>Чистка сораев</td>
+            <td>Работа на сено повале</td>
+            <td>2017-2022</td>
+
+          </table>
+
+      </tr>
+
+
+    </table>
+    <hr>
+        <h2> курсы на ютуб от хауди хо</h2>
+        <a href="youtube.Html"target="_blank">посмотреть список видео</a>
+        <hr>
+       
+    </body>
+</html>
